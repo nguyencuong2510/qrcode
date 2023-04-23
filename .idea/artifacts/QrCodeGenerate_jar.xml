@@ -1,0 +1,83 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="QrCodeGenerate:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/QrCodeGenerate_jar</output-path>
+    <root id="archive" name="QrCodeGenerate.jar">
+      <element id="module-output" name="QrCodeGenerate" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/log4j/log4j/1.2.13/log4j-1.2.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/17.0.2/javafx-base-17.0.2-mac-aarch64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/17.0.2/javafx-base-17.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml-lite/5.2.0/poi-ooxml-lite-5.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/17.0.2/javafx-graphics-17.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.17.1/log4j-api-2.17.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1/commons-logging-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/17.0.2/javafx-fxml-17.0.2-mac-aarch64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/guice-5.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/jansi-2.4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/guava-30.1-jre.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/javax.inject-1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/aopalliance-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/commons-cli-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/httpcore-4.4.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/maven-core-3.9.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/slf4j-api-1.7.36.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/wagon-file-3.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/wagon-http-3.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/httpclient-4.5.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/maven-model-3.9.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/plexus-cipher-2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/commons-codec-1.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/maven-compat-3.9.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/plexus-utils-3.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/commons-lang3-3.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/failureaccess-1.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/maven-artifact-3.9.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/maven-embedder-3.9.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/maven-settings-3.9.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/jcl-over-slf4j-1.7.36.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/maven-plugin-api-3.9.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/wagon-http-shared-3.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/maven-resolver-api-1.9.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/maven-resolver-spi-1.9.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/maven-shared-utils-3.3.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/wagon-provider-api-3.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/maven-model-builder-3.9.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/maven-resolver-impl-1.9.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/maven-resolver-util-1.9.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/plexus-interpolation-1.26.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/plexus-sec-dispatcher-2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/javax.annotation-api-1.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/maven-slf4j-provider-3.9.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/maven-builder-support-3.9.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/maven-settings-builder-3.9.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/maven-resolver-provider-3.9.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/org.eclipse.sisu.inject-0.3.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/org.eclipse.sisu.plexus-0.3.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/maven-repository-metadata-3.9.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/maven-resolver-named-locks-1.9.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/plexus-component-annotations-2.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/maven-resolver-transport-file-1.9.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/maven-resolver-transport-http-1.9.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/maven-resolver-connector-basic-1.9.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/apache-maven-3.9.1/lib/maven-resolver-transport-wagon-1.9.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/zaxxer/SparseBitSet/1.2/SparseBitSet-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/jai-imageio/jai-imageio-core/1.3.1/jai-imageio-core-1.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/zxing/core/3.3.2/core-3.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/17.0.2/javafx-graphics-17.0.2-mac-aarch64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/beust/jcommander/1.72/jcommander-1.72.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/17.0.2/javafx-controls-17.0.2-mac-aarch64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/virtuald/curvesapi/1.06/curvesapi-1.06.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/5.2.0/poi-ooxml-5.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/xmlbeans/xmlbeans/5.0.3/xmlbeans-5.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/poi/poi-scratchpad/3.0.1-FINAL/poi-scratchpad-3.0.1-FINAL.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/poi/poi/5.2.0/poi-5.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/zxing/javase/3.3.2/javase-3.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.15/commons-codec-1.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/17.0.2/javafx-controls-17.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/17.0.2/javafx-fxml-17.0.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
